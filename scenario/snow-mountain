@@ -1,0 +1,59 @@
+{
+  "scene": {
+    "environment": "snowy alpine mountain during golden hour",
+    "weather": "light snowfall with soft wind",
+    "temperature_visual_cues": "visible breath vapor, frost particles in air",
+    "terrain": "untouched powder snow with subtle ski tracks",
+    "background_elements": [
+      "distant snow-covered pine trees",
+      "mountain peaks with cinematic depth haze",
+      "soft orange sunlight reflecting on snow crystals"
+    ]
+  },
+  "subject": {
+    "description": "athletic adult wearing premium ski puffer jacket and high-tech snow goggles",
+    "gender_neutral": true,
+    "wardrobe": {
+      "jacket": "matte insulated puffer jacket with detailed fabric stitching and subtle logo",
+      "pants": "technical waterproof ski pants",
+      "gloves": "thermal gloves with textured grip",
+      "goggles": "futuristic reflective snow goggles with polarized lens"
+    },
+    "movement": "slow confident walk through snow, adjusting goggles, slight turn towards camera"
+  },
+  "camera": {
+    "style": "cinematic commercial",
+    "resolution": "4K",
+    "lens": "85mm anamorphic",
+    "depth_of_field": "shallow with strong subject separation",
+    "movement": "slow tracking shot with subtle handheld realism",
+    "angles": [
+      "low angle hero shot",
+      "close-up on fabric texture with snow particles landing",
+      "macro detail of frost forming on goggles edge"
+    ]
+  },
+  "lighting": {
+    "primary": "natural golden hour sunlight",
+    "rim_light": "strong cold rim light reflecting from snow",
+    "contrast": "high contrast between warm sunlight and cold blue shadows",
+    "reflections": "realistic snow sparkle micro highlights"
+  },
+  "visual_effects": {
+    "snow_particles": "dynamic volumetric snow",
+    "wind_interaction": "fabric subtly moving with wind physics",
+    "breath_vapor": "cinematic slow motion visible condensation",
+    "color_grading": "cool cinematic tone with slight teal shadows and warm highlights"
+  },
+  "brand_feel": {
+    "mood": "premium, resilient, aspirational",
+    "emotion": "confidence in extreme conditions",
+    "energy": "controlled, powerful, calm dominance"
+  },
+  "rendering": {
+    "photorealism": "ultra realistic",
+    "texture_detail": "high fidelity fabric fibers and snow crystals",
+    "dynamic_range": "HDR",
+    "frame_rate": "60fps slow motion segments"
+  }
+}
