@@ -1,0 +1,67 @@
+{
+  "model": "gemini-2.5-flash-image",
+  "task_type": "generation",
+  "priority": {
+    "primary": "Ultra-macro close-up of slightly parted woman's lips",
+    "secondary": "Hyper-realistic skin and lip texture with intimate framing"
+  },
+  "task": "generate_image",
+  "subject": {
+    "main": "woman lips",
+    "attributes": {
+      "physical": "natural lips with visible fine lines, pores, and subtle dryness texture",
+      "pose": "lips slightly parted, revealing a small portion of teeth",
+      "expression": "neutral, intimate, unposed"
+    }
+  },
+  "environment": {
+    "setting": "studio macro photography",
+    "time": "controlled session",
+    "weather": "not applicable",
+    "lighting": {
+      "type": "artificial",
+      "direction": "side and top",
+      "quality": "soft but directional, emphasizing texture"
+    }
+  },
+  "style": {
+    "artistic": "photorealistic",
+    "camera": {
+      "angle": "extreme close-up",
+      "lens": "macro",
+      "aperture": "very shallow depth of field"
+    },
+    "mood": "intimate, raw, organic",
+    "color_palette": "warm natural skin tones with muted pink lips"
+  },
+  "technical": {
+    "resolution": "high",
+    "aspect_ratio": "9:16",
+    "quality": "maximum"
+  },
+  "constraints": {
+    "framing": "extreme macro crop, lips dominating the vertical frame",
+    "focus": "sharp on lip texture, soft falloff into shadows",
+    "exclusions": [
+      "eyes",
+      "full nose",
+      "teeth",
+      "full face",
+      "makeup",
+      "lipstick",
+      "gloss",
+      "filters",
+      "text",
+      "logos",
+      "watermarks"
+    ]
+  },
+  "context_awareness": {
+    "real_world_logic": true,
+    "physics_accurate": true
+  },
+  "output_specs": {
+    "use_case": "lip texture macro detail, beauty editorial, skincare documentation",
+    "success_criteria": "clearly visible lip lines, natural texture, and organic moisture"
+  }
+}
