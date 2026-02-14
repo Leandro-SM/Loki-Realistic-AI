@@ -40,6 +40,6 @@
 
 <p align="center">
   <img src="images/clothe_pose.png" width="400"/>
-  <img src="https://github.com/Leandro-SM/Framework-Realistic-AI/blob/main/images/clothe_pose.gif">
+  <img src="https://github.com/Leandro-SM/Framework-Realistic-AI/blob/main/images/pose_clothe.gif" width="400" height="711">
 </p>
 
