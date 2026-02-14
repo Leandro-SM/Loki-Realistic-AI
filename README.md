@@ -23,5 +23,10 @@
   <img src="images/cocadrinks.png" width="400"/>
 </p>
 
+<p align="center">
+  <img src="images/fridgewater.png" width="400"/>
+  <img src="images/fridgecoca.png" width="400"/>
+</p>
+
 
 
