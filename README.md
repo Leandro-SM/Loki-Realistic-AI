@@ -40,6 +40,6 @@
 
 <p align="center">
   <img src="images/clothe_pose.png" width="400"/>
-  ![til](https://github.com/Leandro-SM/Framework-Realistic-AI/blob/main/images/clothe_pose.gif)
+  <img src="https://github.com/Leandro-SM/Framework-Realistic-AI/blob/main/images/clothe_pose.gif">
 </p>
 
