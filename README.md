@@ -1,4 +1,4 @@
-Exemplo de combinação:
+  Exemplo de combinação:
 
 - Ângulo da câmera /camera-angle/Cam-Cinematic.json
 - Cenário /scenario/snow-mountain.json
@@ -7,5 +7,7 @@ Exemplo de combinação:
 
 
 # Boca
+ <p align="center">
   <img src="images/lip.png" width="400"/>
   <img src="images/tongue.png" width="400"/>
+</p>
