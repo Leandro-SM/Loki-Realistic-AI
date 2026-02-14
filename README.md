@@ -9,5 +9,5 @@
 # Boca
 <p align="center">
   <img src="images/lip.png" width="350"/>
-  <img src="images/tongue.png" width="350" height="350"/>
+  <img src="images/tongue.png" width="350" height="400"/>
 </p>
