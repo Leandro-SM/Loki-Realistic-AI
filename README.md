@@ -5,4 +5,6 @@ Exemplo de combinação:
 - Iluminação /cinematic-selfie.json
 - Objetos - [seu avatar]
 
-  ![Lip](images/lip.png)
+
+# Lábios
+  <img src="images/lip.png" width="400"/>
