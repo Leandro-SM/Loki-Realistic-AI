@@ -13,7 +13,7 @@
 </p>
 
 
-# Inserindo marcas
+# Inserindo objetos
 <p align="center">
   <img src="images/cocadrinks.png" width="400"/>
 </p>
