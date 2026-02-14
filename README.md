@@ -4,3 +4,5 @@ Exemplo de combinação:
 - Cenário /scenario/snow-mountain.json
 - Iluminação /cinematic-selfie.json
 - Objetos - [seu avatar]
+
+  ![Lip](images/lip.png)
