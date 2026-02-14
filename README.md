@@ -7,7 +7,5 @@
 
 
 # Boca
- <p align="center">
-  <img src="images/lip.png" width="400"/>
-  <img src="images/tongue.png" width="400"/>
-</p>
+  <img src="images/lip.png" width="385"/>
+  <img src="images/tongue.png" width="385"/>
