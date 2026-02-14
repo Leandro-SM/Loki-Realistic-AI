@@ -6,5 +6,6 @@ Exemplo de combinação:
 - Objetos - [seu avatar]
 
 
-# Lábios
+# Boca
   <img src="images/lip.png" width="400"/>
+  <img src="images/tongue.png" width="400"/>
